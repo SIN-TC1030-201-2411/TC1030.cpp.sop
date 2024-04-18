@@ -10,7 +10,7 @@ $$y=r.sin(\Theta )$$
 
 La **multiplicación** y **división** de **coordenadas Polares** la puedes consultar aquí:
 
-http://recursostic.educacion.es/descartes/web/materiales_didacticos/numeros_complejos_sgb/complejos3_sg.htm
+https://www.superprof.es/apuntes/escolar/matematicas/aritmetica/complejos/operaciones-con-numeros-complejos-en-forma-polar-y-trigonometrica.html
 
 Este proyecto tiene la estructura básica para cualquier proyecto C++. 
 
